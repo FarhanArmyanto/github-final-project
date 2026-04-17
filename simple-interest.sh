@@ -2,15 +2,13 @@
 
 echo "Simple Interest Calculator"
 
-echo "Masukkan jumlah pokok:"
-read principal
+# Input
+read -p "Enter Principal amount: " p
+read -p "Enter Rate of interest: " r
+read -p "Enter Time period: " t
 
-echo "Masukkan suku bunga (%):"
-read rate
+# Calculation
+si=$((p * r * t / 100))
 
-echo "Masukkan waktu (tahun):"
-read time
-
-interest=$(echo "scale=2; ($principal * $rate * $time) / 100" | bc)
-
-echo "Bunga sederhana adalah: $interest"
+# Output
+echo "Simple Interest is: $si"
