@@ -1,22 +1,27 @@
 # Code of Conduct
 
-## Our Pledge (Janji Kami)
-Kami berkomitmen untuk menciptakan lingkungan yang terbuka, ramah, dan inklusif bagi semua orang.
+## Our Pledge
+We pledge to make participation in our project a harassment-free experience for everyone.
 
-## Our Standards (Standar Kami)
-Perilaku yang diharapkan:
-- Bersikap sopan dan menghormati
-- Menghargai perbedaan pendapat
-- Tidak melakukan pelecehan atau diskriminasi
+## Our Standards
+Examples of behavior that contributes to a positive environment:
+- Being respectful
+- Accepting constructive feedback
+- Helping others learn
 
-## Enforcement Responsibilities (Tanggung Jawab Penegakan)
-Maintainer proyek bertanggung jawab untuk menegakkan aturan ini.
+Unacceptable behavior:
+- Harassment
+- Offensive comments
+- Personal attacks
 
-## Scope (Ruang Lingkup)
-Kode etik ini berlaku untuk semua aktivitas dalam proyek ini, baik online maupun offline.
+## Enforcement Responsibilities
+Project maintainers are responsible for clarifying and enforcing standards.
 
-## Enforcement (Penegakan)
-Pelanggaran terhadap kode etik dapat dilaporkan dan akan ditindak sesuai kebijakan.
+## Scope
+This Code of Conduct applies within all project spaces.
 
-## Attribution (Atribusi)
-Dokumen ini diadaptasi dari Contributor Covenant.
+## Enforcement
+Instances of abusive behavior may be reported to the project maintainers.
+
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant.
